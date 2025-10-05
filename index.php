@@ -12,7 +12,7 @@
         <div class="container mt-5">
             <form>
                 <div class="mb-3">
-                    <label for="emailInput" class="form-label">Email address new</label>
+                    <label for="emailInput" class="form-label">Email address new new</label>
                     <input type="email" class="form-control" id="emailInput" aria-describedby="emailHelp">
                     <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
                 </div>
